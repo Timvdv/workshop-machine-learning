@@ -6,7 +6,7 @@ Door: Tim van de Vathorst
 
 ---
 
-### Opdracht 1: draai de voorbeeld code (EST 10 min)
+### Opdracht 1: draai de voorbeeld code
 
 **Stap 1:** Clone de Github repository van [https://github.com/Timvdv/workshop-machine-learning(https://github.com/Timvdv/workshop-machine-learning)
 
