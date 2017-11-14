@@ -1,12 +1,12 @@
 # Workshop
 
-## Machine learning: the easy way
+## Machine learning: The easy way
 
 Door: Tim van de Vathorst
 
 ---
 
-### Opdracht 1: draai de voorbeeld code
+### Opdracht 1: Draai de voorbeeld code
 
 **Stap 1:** Clone de Github repository van [https://github.com/Timvdv/workshop-machine-learning(https://github.com/Timvdv/workshop-machine-learning)
 
