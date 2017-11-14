@@ -8,10 +8,14 @@ Door: Tim van de Vathorst
 
 ### Opdracht 1: draai de voorbeeld code (EST 10 min)
 
-**Stap 1:** Clone de Github repository van
+**Stap 1:** Clone de Github repository van [https://github.com/Timvdv/workshop-machine-learning(https://github.com/Timvdv/workshop-machine-learning)
+
 **Stap 2:** Maak een account op [https://indico.io/](https://indico.io/)
+
 **Stap 3:** Vervang de INDOCO_APP_KEY_HERE met jouw persoonlijke API code in het .env bestand.
+
 **Stap 4:** Run het commando: yarn install
+
 **Stap 5:** Run het commando: yarn start
 
 ---
