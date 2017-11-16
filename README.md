@@ -8,7 +8,7 @@ Door: Tim van de Vathorst
 
 ### Opdracht 1: Draai de voorbeeld code
 
-**Stap 1:** Clone de Github repository van [https://github.com/Timvdv/workshop-machine-learning(https://github.com/Timvdv/workshop-machine-learning)
+**Stap 1:** Clone de Github repository van [https://github.com/Timvdv/workshop-machine-learning](https://github.com/Timvdv/workshop-machine-learning)
 
 **Stap 2:** Maak een account op [https://indico.io/](https://indico.io/)
 
